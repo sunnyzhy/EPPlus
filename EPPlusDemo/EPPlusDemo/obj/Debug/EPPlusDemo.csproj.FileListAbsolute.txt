@@ -1,0 +1,16 @@
+D:\C#\EPPlusDemo\EPPlusDemo\bin\Debug\EPPlusDemo.exe.config
+D:\C#\EPPlusDemo\EPPlusDemo\bin\Debug\EPPlusDemo.exe
+D:\C#\EPPlusDemo\EPPlusDemo\bin\Debug\EPPlusDemo.pdb
+D:\C#\EPPlusDemo\EPPlusDemo\bin\Debug\EPPlus.pdb
+D:\C#\EPPlusDemo\EPPlusDemo\bin\Debug\EPPlus.xml
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\EPPlusDemo.csprojResolveAssemblyReference.cache
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\MainWindow.g.cs
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\App.g.cs
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\EPPlusDemo_MarkupCompile.cache
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\EPPlusDemo_MarkupCompile.lref
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\MainWindow.baml
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\EPPlusDemo.g.resources
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\EPPlusDemo.Properties.Resources.resources
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\EPPlusDemo.csproj.GenerateResource.Cache
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\EPPlusDemo.exe
+D:\C#\EPPlusDemo\EPPlusDemo\obj\Debug\EPPlusDemo.pdb

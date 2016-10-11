@@ -1,0 +1,9 @@
+D:\C#\EPPlusDemo\EPPlus\bin\Debug\EPPlus.XML
+D:\C#\EPPlusDemo\EPPlus\bin\Debug\EPPlus.dll
+D:\C#\EPPlusDemo\EPPlus\bin\Debug\EPPlus.pdb
+D:\C#\EPPlusDemo\EPPlus\obj\Debug\EPPlus.csprojResolveAssemblyReference.cache
+D:\C#\EPPlusDemo\EPPlus\obj\Debug\EPPlus.dll
+D:\C#\EPPlusDemo\EPPlus\obj\Debug\EPPlus.pdb
+D:\C#\EPPlusDemo\EPPlusDemo\bin\Debug\EPPlus.dll
+D:\C#\EPPlusDemo\EPPlusDemo\bin\Debug\EPPlus.pdb
+D:\C#\EPPlusDemo\EPPlusDemo\bin\Debug\EPPlus.XML
